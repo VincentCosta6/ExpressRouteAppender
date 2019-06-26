@@ -37,3 +37,8 @@ So if we access /first/hello from the server we should get back:
 ```json
 { "msg": "Hello!!" }
 ```
+
+# Future Changes
+1) More settings for the route file
+2) More settings for the appender class
+3) Seperate main function from middleware
